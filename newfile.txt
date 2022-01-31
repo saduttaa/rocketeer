@@ -1,0 +1,2 @@
+Dont worry ! You can do it :)    
+/usr/bin/bash: :w: command not found
